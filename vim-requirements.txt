@@ -1,0 +1,9 @@
+jeetsukumaran/vim-buffergator
+kien/ctrlp.vim
+dyng/ctrlsf.vim
+morhetz/gruvbox
+preservim/nerdtree
+Xuyuanp/nerdtree-git-plugin
+vim-airline/vim-airline
+tpope/vim-fugitive
+airblade/vim-gitgutter
